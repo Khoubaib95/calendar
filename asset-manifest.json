@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Khoubaib95/calendar/static/css/main.ceef4983.css",
-    "main.js": "/Khoubaib95/calendar/static/js/main.5f00414e.js",
-    "static/media/edit.svg": "/Khoubaib95/calendar/static/media/edit.a5613c84ac17a509866df48b8ffa65d2.svg",
-    "static/media/delete.svg": "/Khoubaib95/calendar/static/media/delete.cac5b06bece53ae58ce447746a35a0d8.svg",
-    "index.html": "/Khoubaib95/calendar/index.html",
-    "static/media/close.svg": "/Khoubaib95/calendar/static/media/close.4420b3dbf1589fb0c0218721402255cf.svg",
-    "main.ceef4983.css.map": "/Khoubaib95/calendar/static/css/main.ceef4983.css.map",
-    "main.5f00414e.js.map": "/Khoubaib95/calendar/static/js/main.5f00414e.js.map"
+    "main.css": "/static/css/main.ceef4983.css",
+    "main.js": "/static/js/main.d4ad1339.js",
+    "static/media/edit.svg": "/static/media/edit.a5613c84ac17a509866df48b8ffa65d2.svg",
+    "static/media/delete.svg": "/static/media/delete.cac5b06bece53ae58ce447746a35a0d8.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.4420b3dbf1589fb0c0218721402255cf.svg",
+    "main.ceef4983.css.map": "/static/css/main.ceef4983.css.map",
+    "main.d4ad1339.js.map": "/static/js/main.d4ad1339.js.map"
   },
   "entrypoints": [
     "static/css/main.ceef4983.css",
-    "static/js/main.5f00414e.js"
+    "static/js/main.d4ad1339.js"
   ]
 }
