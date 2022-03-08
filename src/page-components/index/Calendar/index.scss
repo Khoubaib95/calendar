@@ -1,0 +1,14 @@
+@import "../../../shared/styles/variables";
+
+.calendar {
+  text-align: left;
+  width: 340px;
+  margin: 80px auto 0 auto;
+  padding: 15px;
+  background-color: $white;
+
+  border-radius: 12px;
+  h2 {
+    margin-bottom: 16px;
+  }
+}

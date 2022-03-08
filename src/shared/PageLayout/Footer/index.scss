@@ -1,0 +1,14 @@
+@import "../../styles/variables";
+
+footer {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+    text-decoration: none;
+    color: $selected-day;
+    font-weight: 600;
+    margin: 0 5px;
+  }
+}

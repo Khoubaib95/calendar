@@ -1,0 +1,13 @@
+@import "../../styles/variables";
+
+.dayOfWeek {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  margin-right: 4.5px;
+  margin-bottom: 4px;
+  background-color: $white;
+  color: $black;
+}

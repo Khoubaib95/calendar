@@ -1,0 +1,7 @@
+@import "../../styles/variables";
+.month {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 312px;
+  margin: 5px 0;
+}
